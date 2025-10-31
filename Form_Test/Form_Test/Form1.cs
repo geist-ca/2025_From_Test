@@ -13,26 +13,29 @@ namespace Form_Test
 {
     public partial class Form1 : Form
     {
+        const int BUTTON_SIZE_X = 100;
+        const int BUTTON_SIZE_Y = 100;
+
+        const int BOARD_SIZE_X = 3;
+        const int BOARD_SIZE_Y = 3;
         public Form1()
         {
             InitializeComponent();
-            Test_Button test_Button = new Test_Button();
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < BOARD_SIZE_X; i++)
             {
-                for (int j = 0; j < 6; j++)
+                for (int j = 0; j < BOARD_SIZE_Y; j++)
                 {
+                    Test_Button testButton = new Test_Button(new Point(BUTTON_SIZE_X * i, BUTTON_SIZE_Y * j),
+                        new Size(BUTTON_SIZE_X, BUTTON_SIZE_Y),"");
+                    Controls.Add(testButton);
 
-                    test_Button.Location = new Point(50 * i, 50 * j);
-                    test_Button.Size = new Size(50, 50);
-                    test_Button.Text = "あいうえお";
-                    Controls.Add(test_Button);
+
+                  
+
                 }
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("joe");
-        }
+      
     }
 }

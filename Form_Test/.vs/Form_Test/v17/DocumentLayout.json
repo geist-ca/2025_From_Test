@@ -3,20 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\form_test\\test_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|solutionrelative:form_test\\test_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|c:\\users\\zinbe\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\github\\from_test\\form_test\\form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|solutionrelative:form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|c:\\users\\zinbe\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\github\\from_test\\form_test\\form_test\\test_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|solutionrelative:form_test\\test_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|c:\\users\\zinbe\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\github\\from_test\\form_test\\form_test\\test_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|solutionrelative:form_test\\test_button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|c:\\users\\zinbe\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\github\\from_test\\form_test\\form_test\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|solutionrelative:form_test\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|c:\\users\\zinbe\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\github\\from_test\\form_test\\form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|solutionrelative:form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|c:\\users\\zinbe\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\github\\from_test\\form_test\\form_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|solutionrelative:form_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Form_Test||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|c:\\users\\zinbe\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\github\\from_test\\form_test\\form_test\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|solutionrelative:form_test\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7337C1C-3E61-45CA-A89C-AFD591B82CA9}|Form_Test\\Form_Test.csproj|c:\\users\\zinbe\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\github\\from_test\\form_test\\form_test\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +40,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Test_Button.cs",
-              "DocumentMoniker": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Test_Button.cs",
-              "RelativeDocumentMoniker": "Form_Test\\Test_Button.cs",
-              "ToolTip": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Test_Button.cs",
-              "RelativeToolTip": "Form_Test\\Test_Button.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T05:05:49.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Form1.cs",
               "RelativeDocumentMoniker": "Form_Test\\Form1.cs",
               "ToolTip": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Form1.cs*",
               "RelativeToolTip": "Form_Test\\Form1.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBsAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T04:54:59.451Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Program.cs",
-              "RelativeDocumentMoniker": "Form_Test\\Program.cs",
-              "ToolTip": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Program.cs",
-              "RelativeToolTip": "Form_Test\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T04:44:33.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Form1.cs",
               "RelativeDocumentMoniker": "Form_Test\\Form1.cs",
               "ToolTip": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]*",
               "RelativeToolTip": "Form_Test\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T02:50:20.207Z",
+              "WhenOpened": "2025-10-31T05:52:36.161Z",
               "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_Test",
+              "DocumentMoniker": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Form_Test.csproj",
+              "RelativeDocumentMoniker": "Form_Test\\Form_Test.csproj",
+              "ToolTip": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Form_Test.csproj",
+              "RelativeToolTip": "Form_Test\\Form_Test.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-31T04:49:14.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Form1.resx",
+              "RelativeDocumentMoniker": "Form_Test\\Form1.resx",
+              "ToolTip": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Form1.resx",
+              "RelativeToolTip": "Form_Test\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-31T04:48:18.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form_Test\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Form1.Designer.cs",
+              "RelativeToolTip": "Form_Test\\Form1.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAWwCsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T05:52:45.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test_Button.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Test_Button.cs",
+              "RelativeDocumentMoniker": "Form_Test\\Test_Button.cs",
+              "ToolTip": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Test_Button.cs [\u30C7\u30B6\u30A4\u30F3]*",
+              "RelativeToolTip": "Form_Test\\Test_Button.cs [\u30C7\u30B6\u30A4\u30F3]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:48:08.474Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test_Button.cs",
+              "DocumentMoniker": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Test_Button.cs",
+              "RelativeDocumentMoniker": "Form_Test\\Test_Button.cs",
+              "ToolTip": "C:\\Users\\zinbe\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Github\\from_test\\Form_Test\\Form_Test\\Test_Button.cs*",
+              "RelativeToolTip": "Form_Test\\Test_Button.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T05:05:49.904Z",
+              "EditorCaption": ""
             }
           ]
         }
